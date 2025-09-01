@@ -1,5 +1,5 @@
 # Model-Free_ReinforcementLearning_AI
-Agentic AI build, train and deploy using Proximal Policy Optimization (PPO)
+Agentic AI build, train and deploy using TensorFlow and Proximal Policy Optimization (PPO)
 #OpenSource #TheEnd
 
 Snake_AI agebt performance after 10000000 training timesteps: https://github.com/user-attachments/assets/a74d5d9e-dbca-4391-b6fe-d3474a153358
