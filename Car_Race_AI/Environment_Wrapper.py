@@ -1,3 +1,5 @@
+#G
+#D
 import gymnasium as gym
 import numpy as np
 from collections import deque
@@ -68,5 +70,6 @@ class CarRacingEnvWrapper(gym.Wrapper):
 
         self.frames.append(processed_frame)
         stacked_frames = np.stack(self.frames, axis=-1)
+
 
         return stacked_frames, modified_reward, terminated, truncated, info
