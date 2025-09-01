@@ -1,5 +1,4 @@
 #G
-#D
 import gymnasium as gym
 import numpy as np
 from collections import deque
@@ -73,3 +72,4 @@ class CarRacingEnvWrapper(gym.Wrapper):
 
 
         return stacked_frames, modified_reward, terminated, truncated, info
+#D
