@@ -1,5 +1,4 @@
 #D
-#V
 import tensorflow as tf
 import keras
 from keras import layers, Model
@@ -49,3 +48,4 @@ class ActorCritic(keras.Model):
         
 
         return action_distribution, value
+#V
