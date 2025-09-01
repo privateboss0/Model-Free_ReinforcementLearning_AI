@@ -1,3 +1,5 @@
+#D
+#V
 import tensorflow as tf
 import keras
 from keras import layers, Model
@@ -45,4 +47,5 @@ class ActorCritic(keras.Model):
         critic_features = self.common_critic_layer(features)
         value = self.critic_value(critic_features)
         
+
         return action_distribution, value
