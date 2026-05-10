@@ -7,3 +7,8 @@ Snake_AI agent performance after 10000000 training timesteps: https://github.com
 
 Car_Race_AI agent performance on multiple tracks and different driving techniques after 16558080 training timesteps: https://github.com/user-attachments/assets/7edd7a74-66a0-4b43-9e14-8072bf7aeb84
 
+
+Discrete_Lunar_Lander_AI performance after 15000000 training timesteps:
+
+
+Taxi_AI agent after 40000000 training timesteps:
