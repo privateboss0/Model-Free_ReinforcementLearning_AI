@@ -1,7 +1,7 @@
 
 
 https://github.com/user-attachments/assets/30f51c67-7bf1-4674-9cb4-ecd7a28ab1f9
-
+https://github.com/user-attachments/assets/64b71fc5-3b62-48ec-acc6-d07209c339dc
 
 
 # Model-Free_ReinforcementLearning_AI
@@ -21,4 +21,8 @@ Discrete_Lunar_Lander_AI performance after 15000000 training timesteps: https://
 
 
 
-Taxi_AI agent after 40000000 training timesteps:
+Taxi_AI agent after 40000000 training timesteps: https://github.com/user-attachments/assets/64b71fc5-3b62-48ec-acc6-d07209c339dc
+
+
+
+
