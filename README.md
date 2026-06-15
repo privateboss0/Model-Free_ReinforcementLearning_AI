@@ -1,3 +1,4 @@
+
 https://github.com/user-attachments/assets/a74d5d9e-dbca-4391-b6fe-d3474a153358
 
 
@@ -8,6 +9,9 @@ https://github.com/user-attachments/assets/30f51c67-7bf1-4674-9cb4-ecd7a28ab1f9
 
 
 https://github.com/user-attachments/assets/64b71fc5-3b62-48ec-acc6-d07209c339dc
+
+
+https://github.com/user-attachments/assets/87f4405c-7079-4d16-8339-32585a644967
 
 
 # Ghost ReinforcementLearning #GhostRL
@@ -24,3 +28,5 @@ Discrete_Lunar_Lander_AI performance after 15000000 training timesteps: https://
 
 
 Taxi_AI agent after 40000000 training timesteps: https://github.com/user-attachments/assets/64b71fc5-3b62-48ec-acc6-d07209c339dc
+
+ContinuousMountainCar_BestEra_AI performance after 18000000 training timesteps: https://github.com/user-attachments/assets/87f4405c-7079-4d16-8339-32585a644967
